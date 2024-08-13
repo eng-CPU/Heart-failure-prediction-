@@ -31,16 +31,14 @@ The dataset consists of 918 instances with 12 features related to cardiovascular
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/heart-failure-prediction.git
+    git clone https://github.com/eng-CPU/Heart-failure-prediction-/edit/main/README.md
     ```
 2. Navigate to the project directory:
     ```bash
     cd heart-failure-prediction
     ```
-3. Install the required libraries:
-    ```bash
-    pip install -r requirements.txt
-    ```
+3. Install the required libraries.
+   
 
 ## Usage
 
